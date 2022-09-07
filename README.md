@@ -1,5 +1,5 @@
-### Hi there 👋, my name is Francesc
-#### I am a Web Developer
+### Hello World 👋, my name is Francesc
+#### I am a Web Developer 👨‍💻
 Graduated as a Web Developer at the Institut Obert de Catalunya (IOC). Team worker, able to achieve goals under minimal supervision. Eager to constantly learn and great adaptability.
 
 Skills: JAVA / JS / HTML / CSS / SQL
